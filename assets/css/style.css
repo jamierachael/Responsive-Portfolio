@@ -1,0 +1,156 @@
+/* This is style for the body */
+body {
+    margin: 0px auto; 
+    color: #777777;
+   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+/* This is style for the header */
+header {
+    background-color: #ffffff;
+    border-color: #cccccc;
+    margin: 0 auto;
+    position: relative;
+}
+/* This is style for the nav */
+nav {
+    position: relative;
+    margin-left: 900px;
+    bottom: 30px;
+}
+/* This is style for the nav links */
+nav a { text-decoration: none;
+    color: #777777;
+    margin: 10px;
+}
+
+/* Styles borrowed from http://www.codeitpretty.com/2013/06/how-to-use-css-hover-effects.html*/
+a:hover { color: #4aaaa5; }
+
+/* This is style for the wrapper */
+.wrapper {
+    width: 100%;
+    background-color: lightgray;
+    height: 700px;
+    background-image: url("../images/gravel/gravel.png");
+}
+/* This is style for h1, h2 */
+h1, h2 {
+    
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+/* This is style for the h1 only */
+h1 { color: white;
+    width: 27%;
+    background-color: #4aaaa5;
+    margin-left: 17%;
+    position: relative;
+    top: 40px;
+    padding: 20px;
+}
+/* This is style for the h1 only */
+h2 {
+    color: #4aaaa5;
+    padding-top: 20px;
+    margin-left: 10px;
+}
+/* This is the  style for the white area with the written content */
+.main {
+    background-color: #ffffff;   
+    border-color: #dddddd; 
+    width: 960px;
+    margin: 0 auto;
+    height: 525px;
+}
+
+/* This is style for the paragraph */
+p { margin: 20px;
+    
+  }
+/* This is style for the profile class */
+/* This styles the profile photo on the About page only */
+.profile {float: left;
+    padding: 20px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
+/* This is style for the form */
+form {
+    margin: 25px;
+    padding-left: 30px;
+}
+/* This is style for the length class */
+/* This extends the length of the input on the contact page only */
+
+.length { width: 800px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    line-height: 175%;
+}
+/* This is style for the submit buttom */
+#submit {
+    
+        background-color: #4aaaa5; /* Green */
+        border: none;
+        color: white;
+        padding: 10px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      
+}
+
+/* This is style for the image-portfolio class*/
+.img-portfolio {
+    width: 800px;
+    margin: 30px 115px;
+    height: 400px;
+    
+}
+
+/* This is style for the port-class */
+/* This styles the labels for the images on portfolio page only */
+.port {
+    background: #4aaaa5;
+    height: 25px; 
+    width: 200px;
+    color: white;
+    position: absolute;
+    text-align: center;
+    padding-top: 10px;
+    margin: 125px auto auto 35px;
+    z-index: 1;
+}
+
+/* This is style for the img class */
+/* This styles the images on portfolio page only */
+
+.img {
+    height: 160px; 
+    width: 200px;
+    position: relative;
+    padding-top: 20px;  
+    margin-left: 35px;
+    z-index: 0;
+
+}
+/* This is style for the box-class */
+/* This styles the indivual boxes with an image and a label on portfolio page only */
+.box {
+    float: left;
+    
+}
+
+/* This is style for the footer */
+/* Sticky footer adopted from https://css-tricks.com/couple-takes-sticky-footer/ */
+footer {
+    background-color: #666666;
+    padding: 20px;
+    text-align: center;
+    clear: both;
+    color: #cccccc;
+    border-top: 8px solid #4aaaa5;
+    position: sticky;
+    bottom: 0;
+    z-index: 2;
+}
