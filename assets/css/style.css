@@ -137,8 +137,7 @@ form {
 /* This is style for the box-class */
 /* This styles the indivual boxes with an image and a label on portfolio page only */
 .box {
-    float: left;
-    
+    float: left;   
 }
 
 /* This is style for the footer */
@@ -181,9 +180,22 @@ h1 { color: white;
     top: 40px;
     padding: 20px;
 }
+.length { width: 75%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    line-height: 175%;
+}
+textarea { width: 75%;
+}
+
+.img-portfolio {
+    width: 85%;
+    margin: 0 auto;
+}
+
 
 }
-/* A Media Query max-width: 640px */
+/* A Media Query max-width: 640px - note 640x480 is standard size */
 @media screen and (max-width: 640px) {
     body {
         margin: 0 auto;
@@ -215,5 +227,20 @@ h1 { color: white;
         padding: 15px 50px 15px 50px;;
     
     }
+
+    .length { width: 80%;
+        margin-top: 5px;
+        margin-bottom: 10px;
+        line-height: 175%;
+    }
+    textarea { width: 80%;
+    }
+    
+    .img-portfolio {
+        width: 75%;
+        margin: 0 auto;
+        
+    }
+    
  
 }
