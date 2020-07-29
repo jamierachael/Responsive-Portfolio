@@ -23,12 +23,20 @@
     * Adjusts widths and margins
     * Moves Nav
     * Resizes img on portfolio page and their associated headings
+
+    ![](assets/images/Index-786.PNG)
+    ![](assets/images/Portfolio-786.PNG)
+    ![](assets/images/Contact-786.PNG)
 * max-width: 640px
     * Adjusts widths and margins
     * Moves Nav
     * Resizes img on portfolio page and their associated headings
     * Resizes footer
     * Resizes Header, changes position to static
+
+    ![](assets/images/Index-640.PNG)
+    ![](assets/images/Portfolio-640.PNG)
+    ![](assets/images/Contact-640.PNG)
 
 ### To Execute File:
 > Open in browser
