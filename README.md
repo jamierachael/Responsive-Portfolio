@@ -15,6 +15,10 @@
 * max-width: 980px 
     * Adjusts widths and margins
     * Moves Nav
+
+    ![](assets/images/Index-980.PNG)
+    ![](assets/images/Portfolio-980.PNG)
+    ![](assets/images/Contact-980.PNG)
 * max-width: 786px
     * Adjusts widths and margins
     * Moves Nav
