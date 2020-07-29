@@ -16,7 +16,7 @@
     * Adjusts widths and margins
     * Moves Nav
 
-    <img src="assets/images/Index-980.PNG" width="100" height="100">
+    ![](assets/images/Index-980.PNG)
     ![](assets/images/Portfolio-980.PNG)
     ![](assets/images/Contact-980.PNG)
 * max-width: 786px
