@@ -1,8 +1,11 @@
 # Responsive-Portfolio
 ## Homework-2 Responsive-Portfolio
 
-* ['Responsive-Portfolio'](https://github.com/jamierachael/Responsive-Portfolio)
-* ['Responsive-Portfolio'](https://jamierachael.github.io/Responsive-Portfolio/)
+* [GitHub Repository](https://github.com/jamierachael/Responsive-Portfolio)
+* [Deployed GitHub IO](https://jamierachael.github.io/Responsive-Portfolio/)
+* [Full Demo Video](https://drive.google.com/file/d/1pT5WcVQmhtRmccelCtPIRRmvAw7Paul6/view)
+
+![Responsive-Portfolio Demo](assets/demo/demo.gif)
 
 ### Summary
 * HTML and CSS documents built from a previous project
