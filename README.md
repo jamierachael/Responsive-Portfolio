@@ -1,4 +1,4 @@
-# Basic-Portfolio
+# Responsive-Portfolio
 
 This project was designed as a homework assignment for UNH's coding bootcamp. This emphasizes modifying an exisitng website template build in HTML and CSS to have responsiveness using CSS media queries. 
 
