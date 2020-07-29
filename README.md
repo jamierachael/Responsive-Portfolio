@@ -63,14 +63,14 @@ Pages include the following: Index, Portfolio, Contact with media queries for sc
 ### Features: 
 * Three HTML Pages
     * Index.html
-        * contains personal bio
+        * Contains personal bio
     * Portfolio.html 
-        * contains work examples with headings highlighting services offered
+        * Contains work examples with headings highlighting services offered
     * Contact.html
         * Contains a customer interest contact form
 * Two CSS Pages
     * Styles.css
-        *Main styles sheet
+        * Main styles sheet
     * Reset.css 
         * Clears default browser styling
 
